@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Repositories/Math_Logic/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\ml2.dir\\main.cpp.obj -c D:\\Repositories\\Math_Logic\\main.cpp",
+  "file": "D:/Repositories/Math_Logic/main.cpp",
+  "output": "CMakeFiles/ml2.dir/main.cpp.obj"
+}
+]
